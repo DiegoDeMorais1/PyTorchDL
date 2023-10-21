@@ -3,7 +3,7 @@
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Deep learning with Pythorch**
-| :label: Tecnologias | Python, GoogleCola, Jupyter Notebook,  Pandas.  (tecnologias utilizadas)
+| :label: Tecnologias | Python, GoogleColab, Jupyter Notebook, Pandas, PyTorch  (tecnologias utilizadas)
 | :fire: Desafio     |  https://cursos.alura.com.br/course/pln-deep-learning
 
 <p align="center">
