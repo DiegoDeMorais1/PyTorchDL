@@ -1,5 +1,12 @@
 # PyTorchDL
-Deep learning with Pythorch
+
+Rápida descrição do objetivo de fazer esse projeto
+:placard: Vitrine.Dev 	
+:sparkles: Nome 	Deep learning with Pythorch
+:label: Tecnologias 	python, google cobab, pandas pythorch,
+:rocket: URL 	https://cursos.alura.com.br/course/pln-deep-learning
+
+(https://github.com/DiegoDeMorais1/PyTorchDL/blob/main/wine1.png) 
 
 O machine learning tradicional tem duas etapas. A etapa de extração de características, onde o programador diz quais características são relevantes. No caso do cachorro eu posso procurar por pontas de orelha, por círculos, equivalente aos olhos. E aí eu vou treinar um modelo de classificação provavelmente, que não precisa ser rede neural, pode ser qualquer outro modelo, que vai me dizer que isso é um cachorro.
 
