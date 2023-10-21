@@ -9,8 +9,8 @@
 <p align="center">
   <img alt="Wine" src="wine1.png">
   <img alt="wine1" src="wine2-norm.png">
-  <img alt="optimizer" src="optimizer.png">
   <img alt="fronteira" src="frontdecisi.png">
+  <img alt="optimizer" src="optimizer.png">
 
 O machine learning tradicional tem duas etapas. A etapa de extração de características, onde o programador diz quais características são relevantes. No caso do cachorro eu posso procurar por pontas de orelha, por círculos, equivalente aos olhos. E aí eu vou treinar um modelo de classificação provavelmente, que não precisa ser rede neural, pode ser qualquer outro modelo, que vai me dizer que isso é um cachorro.
 
